@@ -1,6 +1,6 @@
 # Rain-Alert-SMS-Notifier
 ## This Python code retrieves weather data from the OpenWeatherMap API for a specified location. It checks the hourly weather forecast for the next 12 hours and determines if it will rain during that period.
-If rain is predicted, it uses the Twilio API to send an SMS message to a specified phone number, reminding the recipient to bring an umbrella. The Twilio API requires account SID and authentication token, which need to be provided in the code.
+## If rain is predicted, it uses the Twilio API to send an SMS message to a specified phone number, reminding the recipient to bring an umbrella. The Twilio API requires account SID and authentication token, which need to be provided in the code.
 
 # _**To use this code, you need to replace the placeholders with your own details such as account SID, API key, latitude, longitude, Twilio virtual number, and Twilio verified real number.**_
 
