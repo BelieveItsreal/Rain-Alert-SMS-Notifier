@@ -22,8 +22,8 @@
 
 7. Save the modified code.
 
-# Make sure you have the required packages installed: requests, twilio, and os. If not, install them using pip.
+## _Make sure you have the required packages installed: requests, twilio, and os. If not, install them using pip._
 
-# Run the code. It will retrieve the weather forecast, check if rain is predicted, and send an SMS message if rain is expected within the next 12 hours.
+## _Run the code. It will retrieve the weather forecast, check if rain is predicted, and send an SMS message if rain is expected within the next 12 hours._
 
-# Make sure to keep your API keys, account SID, and authentication token confidential and do not share them publicly.
+## _Make sure to keep your API keys, account SID, and authentication token confidential and do not share them publicly._
